@@ -1,4 +1,4 @@
-# Elevat-Lab-Task-1
+# Elevate-Lab-Task-1
 Customer Personality Analysis
 
 # Objective
@@ -17,3 +17,6 @@ Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats)
 
 # Cleaned Data
 ![Screenshot(495)](https://github.com/Alazizu6798/Elevat-Lab-Task-1/blob/main/Screenshot%202025-04-07%20204941.png)
+
+# Excel Sheet 
+- Excel sheet Interaction  <a href="https://github.com/Alazizu6798/Elevate-Lab-Task-1/blob/main/Customer%20Personality%20Analysis.xlsx">Customer Personality Analysis</a> 
